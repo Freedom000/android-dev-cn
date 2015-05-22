@@ -40,4 +40,8 @@ qinjuning | | [qinjuning@csdn](http://blog.csdn.net/qinjuning) |
 sunzn | | [sunzn@cnblogs](http://www.cnblogs.com/sunzn) | Android 基础开发知识
 pedant | [pedant ](https://github.com/pedant) | [书呆子精神院](http://pedant.cn/) | [SweetAlertDialog](https://github.com/pedant/sweet-alert-dialog)、安全与逆向
 androidyue | [androidyue](https://github.com/androidyue) | [技术小黑屋](http://droidyue.com/) | Android，Java研究
+Jacksgong | [Jacksgong](https://github.com/Jacksgong) | [Jacks Blog](http://blog.dreamtobe.cn/) | Java Android MAC
+张林 linroid | [张林 linroid](https://github.com/linroid) | [linroid](http://linroid.com/) | 四季电台客户端 FilterMenu
+zmywly8866 | [zmywly8866](https://github.com/zmywly8866) | [zmywly8866](http://zmywly8866.github.io/) | 
+马天宇 litesuits | [马天宇 litesuits](https://github.com/litesuits) | [Liter](http://www.vmatianyu.cn/) |聚划算 LiteHttp LiteAsync LiteOrm LiteCommon等Lite系列开源框架
 
